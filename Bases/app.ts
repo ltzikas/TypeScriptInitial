@@ -1,7 +1,8 @@
-//* ejercicio 1
-/*
 (() => {
 
+
+//* ejercicio 1
+/*
     // Tipos
     const batman: string = 'Bruce';
     const superman: string = 'Clark';
@@ -47,8 +48,6 @@
     const largoDelPoder:number = (poder as string).length;
     console.log( largoDelPoder );
   
-  
-  })()
   */
  
 //* ejercicio 2
@@ -162,3 +161,6 @@ let mystique;
 
 mystique = charles;
 mystique = apocalipsis;
+
+
+})();

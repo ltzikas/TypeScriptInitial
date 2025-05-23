@@ -4,7 +4,7 @@
         throw new Error(message);
     };
 
-    abc('Auxilio!');
+    //abc('Auxilio!');
 
 
 })();

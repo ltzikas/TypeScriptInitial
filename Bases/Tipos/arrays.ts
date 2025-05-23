@@ -8,4 +8,8 @@
         console.log(villain.toUpperCase());
     });
 
+    numbers.forEach(villain => {
+        console.log(villain);
+    });
+
 })();
